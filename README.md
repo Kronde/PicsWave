@@ -30,3 +30,8 @@ PicsWave is a lightweight project designed to showcase the use of the PicSum API
 - CSS3
 - JavaScript
 - PicSum API
+
+
+## Acknowledgments
+
+- Thanks to the PicSum API for providing a simple way to access a variety of random images for this project.
